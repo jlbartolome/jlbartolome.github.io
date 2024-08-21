@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-(SITE UNDER CONSTRUCTIONS)
+(SITE UNDER CONSTRUCTION)
 
 I am an Assistant Professor in the Department of Physics at the University of the Basque Country UPV/EHU, and member of the [Computational theory in Condensed Matter Physics group](https://www.ehu.eus/en/web/computational-many-body-theory/home). My research field is the quantum theory of solids, at the intersection between condensed matter physics, high performance computing, and materials science. A particular emphasis of my research is on the interaction between electrons and atomic vibrations in materials, as well as on the prediction of related emergent properties such as polaron formation and superconductivity.
 
