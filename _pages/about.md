@@ -2,17 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Department of Physics, University of the Basque Country UPV/EHU
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>CD5.P2.17</p>
     <p>Fisika Saila</p>
     <p>Zientzia eta Teknologia Fakultatea</p>
-    <p>Euskal Herriko Unibertsitatea UPV/EHU</p>
     <p>Barrio Sarriena s/n, 48940 Leioa</p>
 
 news: true # includes a list of news items
@@ -27,8 +26,8 @@ I am an Assistant Professor in the Department of Physics at the University of th
 My research field is the quantum theory of solids, at the intersection between condensed matter physics, high performance computing, and materials science. A particular emphasis of my research is on the interaction between electrons and atomic vibrations in materials, as well as on the prediction of related emergent properties such as polaron formation and superconductivity.
 
 
-# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+[comment]: Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+[comment]: Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[comment]: Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
