@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Physics, University of the Basque Country UPV/EHU
+subtitle:
 
 profile:
   align: right
